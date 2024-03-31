@@ -60,4 +60,9 @@ public class MemberController {
 		
 	}
 	
+	public String git() {
+		
+		return null;
+	}
+	
 }
