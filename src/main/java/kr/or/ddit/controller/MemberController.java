@@ -60,9 +60,10 @@ public class MemberController {
 		
 	}
 	
-	public String git() {
+	public String member() {
 		
 		return null;
+		
 	}
 	
 }
