@@ -67,6 +67,8 @@ public class MemberController {
 		
 		System.out.println("최현명으로 수정했어요!!!");
 		
+		System.out.println("방법을 찾았따 씨발!!!!!!!!!!!!! git add -u 만해라.. 제발 ㅇㅋ?");
+		
 		return null;
 	}
 
