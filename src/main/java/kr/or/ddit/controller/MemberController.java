@@ -38,6 +38,7 @@ public class MemberController {
 		}else {
 			
 			return "security/failure";
+			0
 			
 		}
 		
@@ -62,8 +63,9 @@ public class MemberController {
 	
 	public String member() {
 		
+		System.out.println("머지했어요");
+		
 		return null;
 		
 	}
-	
 }
