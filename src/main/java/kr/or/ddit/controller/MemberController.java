@@ -65,8 +65,9 @@ public class MemberController {
 
 		System.out.println("또머지할게요 제발");
 		
+		System.out.println("최현명으로 수정했어요!!!");
+		
 		return null;
 	}
-
 
 }
