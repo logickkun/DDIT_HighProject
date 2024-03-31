@@ -55,7 +55,8 @@ public class MemberController {
 	@PreAuthorize("hasAnyRole('ROLE_MEMBER', 'ROLE_ADMIN')")
 	@GetMapping("/success")
 	public String successForm() {
-		
+		System.out.println("dd");
+		System.out.println("dasdasd");
 		return "security/success";
 		
 	}
@@ -63,6 +64,6 @@ public class MemberController {
 	public String member() {
 		
 		return null;
-		
+	}
 	
 }
