@@ -62,19 +62,13 @@ public class MemberController {
 	}
 	
 	public String member() {
-		
-<<<<<<< HEAD
-		return null;
-	}
-	
-=======
 		System.out.println("머지했어요");
 
 		System.out.println("또머지할게요 제발");
 		
+		System.out.println("최현명으로 수정했어요!!!");
+		
 		return null;
 	}
 
-
->>>>>>> 3d7e89e6e6d79722e2acde0155ae5d9496e57ff1
 }
