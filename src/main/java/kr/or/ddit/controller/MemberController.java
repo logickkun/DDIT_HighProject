@@ -60,4 +60,10 @@ public class MemberController {
 		
 	}
 	
+	public String member() {
+		
+		return null;
+		
+	}
+	
 }
